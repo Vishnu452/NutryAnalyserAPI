@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUserPhysicalActivity.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUserPhysicalActivity.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.pdb

@@ -1,0 +1,9 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLLogin.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLLogin.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csprojAssemblyReference.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.pdb

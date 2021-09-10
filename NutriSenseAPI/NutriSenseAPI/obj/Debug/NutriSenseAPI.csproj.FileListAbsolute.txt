@@ -1,0 +1,2 @@
+F:\HIS-Working\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csprojAssemblyReference.cache
+F:\HIS-Working\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\bin\Debug\DLLNutritionReports.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\bin\Debug\DLLNutritionReports.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\obj\Debug\DLLNutritionReports.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\obj\Debug\DLLNutritionReports.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\obj\Debug\DLLNutritionReports.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutritionReports\obj\Debug\DLLNutritionReports.pdb

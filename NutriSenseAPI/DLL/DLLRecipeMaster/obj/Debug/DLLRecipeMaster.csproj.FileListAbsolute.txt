@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLRecipeMaster.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLRecipeMaster.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.pdb

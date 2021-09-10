@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLFoodNutrientList.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLFoodNutrientList.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.pdb

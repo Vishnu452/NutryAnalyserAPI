@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DDLCustomisedRda.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DDLCustomisedRda.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.pdb

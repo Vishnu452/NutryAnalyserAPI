@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLNutriAnalyser.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLNutriAnalyser.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.pdb

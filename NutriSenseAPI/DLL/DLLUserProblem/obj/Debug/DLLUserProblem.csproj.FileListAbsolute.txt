@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\bin\Debug\DLLUserProblem.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\bin\Debug\DLLUserProblem.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\obj\Debug\DLLUserProblem.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\obj\Debug\DLLUserProblem.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\obj\Debug\DLLUserProblem.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLUserProblem\obj\Debug\DLLUserProblem.pdb

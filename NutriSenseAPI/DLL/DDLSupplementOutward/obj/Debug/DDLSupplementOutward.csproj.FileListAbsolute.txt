@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DDLSupplementOutward.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DDLSupplementOutward.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.pdb

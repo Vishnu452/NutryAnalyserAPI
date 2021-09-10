@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLFeedback.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLFeedback.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.pdb

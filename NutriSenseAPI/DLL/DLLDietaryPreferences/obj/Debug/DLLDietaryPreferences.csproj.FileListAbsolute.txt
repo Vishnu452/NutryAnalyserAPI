@@ -1,0 +1,9 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLDietaryPreferences.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLDietaryPreferences.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csprojAssemblyReference.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.pdb

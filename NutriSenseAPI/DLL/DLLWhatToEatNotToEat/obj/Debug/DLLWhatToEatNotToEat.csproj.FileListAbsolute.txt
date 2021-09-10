@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLWhatToEatNotToEat.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLWhatToEatNotToEat.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.pdb

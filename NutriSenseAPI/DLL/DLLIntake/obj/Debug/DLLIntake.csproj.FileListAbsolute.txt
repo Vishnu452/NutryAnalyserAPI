@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLIntake.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLIntake.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.pdb

@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\bin\Debug\DLLIntakeByDiningTable.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\bin\Debug\DLLIntakeByDiningTable.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\obj\Debug\DLLIntakeByDiningTable.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\obj\Debug\DLLIntakeByDiningTable.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\obj\Debug\DLLIntakeByDiningTable.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIntakeByDiningTable\obj\Debug\DLLIntakeByDiningTable.pdb

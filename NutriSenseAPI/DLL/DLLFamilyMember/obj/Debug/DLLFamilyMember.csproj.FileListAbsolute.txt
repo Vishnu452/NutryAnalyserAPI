@@ -1,0 +1,9 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\bin\Debug\DLLFamilyMember.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\bin\Debug\DLLFamilyMember.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\obj\Debug\DLLFamilyMember.csprojAssemblyReference.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\obj\Debug\DLLFamilyMember.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\obj\Debug\DLLFamilyMember.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\obj\Debug\DLLFamilyMember.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLFamilyMember\obj\Debug\DLLFamilyMember.pdb

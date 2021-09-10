@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLActivityTracking.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLActivityTracking.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.pdb

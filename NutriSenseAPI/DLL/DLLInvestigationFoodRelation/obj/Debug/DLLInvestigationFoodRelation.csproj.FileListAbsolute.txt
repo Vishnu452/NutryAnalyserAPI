@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLInvestigationFoodRelation.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLInvestigationFoodRelation.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.pdb

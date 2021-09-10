@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLNotification.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLNotification.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.pdb

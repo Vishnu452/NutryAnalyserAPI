@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLIdealNutrientGraph.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLIdealNutrientGraph.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.pdb

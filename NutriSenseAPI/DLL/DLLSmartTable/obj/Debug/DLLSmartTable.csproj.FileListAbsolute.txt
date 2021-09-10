@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLSmartTable.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLSmartTable.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.pdb

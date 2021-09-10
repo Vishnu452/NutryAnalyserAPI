@@ -1,0 +1,8 @@
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\bin\Debug\DLLWaterIntake.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\bin\Debug\DLLWaterIntake.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\bin\Debug\DLLUtility.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\bin\Debug\DLLUtility.pdb
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\obj\Debug\DLLWaterIntake.csproj.CoreCompileInputs.cache
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\obj\Debug\DLLWaterIntake.csproj.CopyComplete
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\obj\Debug\DLLWaterIntake.dll
+F:\HIS-Working\NutriSenseAPI\DLL\DLLWaterIntake\obj\Debug\DLLWaterIntake.pdb
