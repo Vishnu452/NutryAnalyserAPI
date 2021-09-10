@@ -7,3 +7,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.cspro
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\bin\Debug\DLLRegistration.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\bin\Debug\DLLRegistration.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRegistration\obj\Debug\DLLRegistration.pdb

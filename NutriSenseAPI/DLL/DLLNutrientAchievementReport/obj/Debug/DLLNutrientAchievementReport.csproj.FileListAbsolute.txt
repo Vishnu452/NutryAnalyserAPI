@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutri
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\bin\Debug\DLLNutrientAchievementReport.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\bin\Debug\DLLNutrientAchievementReport.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutrientAchievementReport\obj\Debug\DLLNutrientAchievementReport.pdb

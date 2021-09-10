@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.csproj.Core
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\bin\Debug\DLLUniversal.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\bin\Debug\DLLUniversal.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUniversal\obj\Debug\DLLUniversal.pdb

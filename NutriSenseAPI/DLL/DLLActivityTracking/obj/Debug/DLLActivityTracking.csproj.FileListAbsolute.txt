@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracki
 F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLActivityTracking.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLActivityTracking.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLActivityTracking\obj\Debug\DLLActivityTracking.pdb

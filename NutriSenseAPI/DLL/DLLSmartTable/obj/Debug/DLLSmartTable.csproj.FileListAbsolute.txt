@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.Co
 F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLSmartTable.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLSmartTable.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLSmartTable\obj\Debug\DLLSmartTable.pdb

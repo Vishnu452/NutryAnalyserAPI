@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProb
 F:\HIS-Working\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\bin\Debug\DLLPatientProblemGraph.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\bin\Debug\DLLPatientProblemGraph.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLPatientProblemGraph\obj\Debug\DLLPatientProblemGraph.pdb

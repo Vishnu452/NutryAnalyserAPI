@@ -7,3 +7,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CoreCompileI
 F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLLogin.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLLogin.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLLogin\obj\Debug\DLLLogin.pdb

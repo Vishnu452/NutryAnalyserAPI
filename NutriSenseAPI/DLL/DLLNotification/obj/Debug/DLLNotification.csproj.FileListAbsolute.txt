@@ -6,3 +6,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.cspro
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLNotification.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLNotification.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNotification\obj\Debug\DLLNotification.pdb

@@ -7,3 +7,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPrefe
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLDietaryPreferences.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLDietaryPreferences.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDietaryPreferences\obj\Debug\DLLDietaryPreferences.pdb

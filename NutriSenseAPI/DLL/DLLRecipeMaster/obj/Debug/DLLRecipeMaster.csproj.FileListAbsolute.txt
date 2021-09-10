@@ -6,3 +6,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.cspro
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLRecipeMaster.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLRecipeMaster.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLRecipeMaster\obj\Debug\DLLRecipeMaster.pdb

@@ -4,3 +4,9 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.csprojAssemblyR
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.csproj.CoreCompileInputs.cache
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUtility\obj\Debug\DLLUtility.pdb

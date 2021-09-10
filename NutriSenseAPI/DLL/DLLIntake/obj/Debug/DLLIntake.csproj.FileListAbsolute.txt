@@ -6,3 +6,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CoreCompil
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLIntake.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLIntake.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIntake\obj\Debug\DLLIntake.pdb

@@ -6,3 +6,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csp
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLNutriAnalyser.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLNutriAnalyser.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLNutriAnalyser\obj\Debug\DLLNutriAnalyser.pdb

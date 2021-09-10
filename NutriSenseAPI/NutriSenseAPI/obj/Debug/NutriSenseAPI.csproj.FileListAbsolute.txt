@@ -1,2 +1,4 @@
 F:\HIS-Working\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csprojAssemblyReference.cache
 F:\HIS-Working\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\NutriSenseAPI\obj\Debug\NutriSenseAPI.csproj.CoreCompileInputs.cache

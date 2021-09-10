@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInves
 F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLInvestigationFoodRelation.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLInvestigationFoodRelation.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLInvestigationFoodRelation\obj\Debug\DLLInvestigationFoodRelation.pdb

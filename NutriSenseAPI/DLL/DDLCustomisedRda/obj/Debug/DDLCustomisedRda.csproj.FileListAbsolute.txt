@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csp
 F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DDLCustomisedRda.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DDLCustomisedRda.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLCustomisedRda\obj\Debug\DDLCustomisedRda.pdb

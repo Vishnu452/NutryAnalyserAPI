@@ -6,3 +6,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CoreCo
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLFeedback.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLFeedback.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFeedback\obj\Debug\DLLFeedback.pdb

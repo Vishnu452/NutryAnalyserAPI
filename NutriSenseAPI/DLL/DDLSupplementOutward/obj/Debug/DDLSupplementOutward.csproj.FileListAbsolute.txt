@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOut
 F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DDLSupplementOutward.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DDLSupplementOutward.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DDLSupplementOutward\obj\Debug\DDLSupplementOutward.pdb

@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientLi
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLFoodNutrientList.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLFoodNutrientList.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLFoodNutrientList\obj\Debug\DLLFoodNutrientList.pdb

@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DLLDefic
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DLLDeficientNutrientReport.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DeficientNutritionReports.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DeficientNutritionReports.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\bin\Debug\DeficientNutritionReports.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\bin\Debug\DeficientNutritionReports.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DLLDeficientNutrientReport.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DLLDeficientNutrientReport.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DeficientNutritionReports.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLDeficientNutritionReports\obj\Debug\DeficientNutritionReports.pdb

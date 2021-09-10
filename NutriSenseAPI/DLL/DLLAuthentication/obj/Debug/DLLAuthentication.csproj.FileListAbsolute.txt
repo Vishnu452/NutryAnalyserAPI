@@ -7,3 +7,12 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.c
 F:\HIS-Working\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\bin\Debug\DLLAuthentication.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\bin\Debug\DLLAuthentication.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.csproj.AssemblyReference.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLAuthentication\obj\Debug\DLLAuthentication.pdb

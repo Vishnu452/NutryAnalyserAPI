@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotT
 F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLWhatToEatNotToEat.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLWhatToEatNotToEat.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLWhatToEatNotToEat\obj\Debug\DLLWhatToEatNotToEat.pdb

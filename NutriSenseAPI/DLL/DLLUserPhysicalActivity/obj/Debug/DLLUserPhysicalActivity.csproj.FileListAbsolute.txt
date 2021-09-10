@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysic
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUserPhysicalActivity.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUserPhysicalActivity.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLUserPhysicalActivity\obj\Debug\DLLUserPhysicalActivity.pdb

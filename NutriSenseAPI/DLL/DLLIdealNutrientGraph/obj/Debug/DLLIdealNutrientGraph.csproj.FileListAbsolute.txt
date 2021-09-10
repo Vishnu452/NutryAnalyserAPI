@@ -6,3 +6,11 @@ F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrien
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.csproj.CopyComplete
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.dll
 F:\HIS-Working\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLIdealNutrientGraph.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLIdealNutrientGraph.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLUtility.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\bin\Debug\DLLUtility.pdb
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.csproj.CoreCompileInputs.cache
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.csproj.CopyComplete
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.dll
+D:\CtWorkSpace\angularProject\NutriSenseAPI\NutriSenseAPI\DLL\DLLIdealNutrientGraph\obj\Debug\DLLIdealNutrientGraph.pdb
